@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { useClockStore } from '@/store/clock';
 import { motion } from 'framer-motion';
