@@ -32,7 +32,7 @@ This is an older project that I just revamped and added some new styling to it b
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/advanced-clock.git
+git clone https://github.com/Ryan-Ray-Official/Advanced-Clock.git
 ```
 
 2. Install dependencies:
